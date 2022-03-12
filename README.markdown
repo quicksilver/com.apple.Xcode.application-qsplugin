@@ -1,3 +1,9 @@
+Xcode Plugin
+============
+
+This plugin is obsolete, and https://github.com/quicksilver/com.apple.Xcode.devdocs-qsplugin should be used instead.
+
+
 About Quicksilver Plugins on Github
 ===================================
 
